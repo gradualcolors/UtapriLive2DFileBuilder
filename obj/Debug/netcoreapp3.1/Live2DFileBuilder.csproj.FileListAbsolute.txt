@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Live2DFileBuilder\bin\Debug\netcoreapp3.1\Live2DFileBuilder.exe
+C:\Users\USER\source\repos\Live2DFileBuilder\bin\Debug\netcoreapp3.1\Live2DFileBuilder.deps.json
+C:\Users\USER\source\repos\Live2DFileBuilder\bin\Debug\netcoreapp3.1\Live2DFileBuilder.runtimeconfig.json
+C:\Users\USER\source\repos\Live2DFileBuilder\bin\Debug\netcoreapp3.1\Live2DFileBuilder.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Live2DFileBuilder\bin\Debug\netcoreapp3.1\Live2DFileBuilder.dll
+C:\Users\USER\source\repos\Live2DFileBuilder\bin\Debug\netcoreapp3.1\Live2DFileBuilder.pdb
+C:\Users\USER\source\repos\Live2DFileBuilder\obj\Debug\netcoreapp3.1\Live2DFileBuilder.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Live2DFileBuilder\obj\Debug\netcoreapp3.1\Live2DFileBuilder.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Live2DFileBuilder\obj\Debug\netcoreapp3.1\Live2DFileBuilder.AssemblyInfo.cs
+C:\Users\USER\source\repos\Live2DFileBuilder\obj\Debug\netcoreapp3.1\Live2DFileBuilder.dll
+C:\Users\USER\source\repos\Live2DFileBuilder\obj\Debug\netcoreapp3.1\Live2DFileBuilder.pdb
+C:\Users\USER\source\repos\Live2DFileBuilder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\Live2DFileBuilder\obj\Debug\netcoreapp3.1\Live2DFileBuilder.csproj.CopyComplete
